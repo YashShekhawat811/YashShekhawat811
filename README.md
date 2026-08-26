@@ -317,6 +317,8 @@ Build Again
 > **Learn the concept → understand the system → build it → find what breaks → improve it.**
 
 ---
+💬 Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
 
 # 🌐 Let's Connect
 
