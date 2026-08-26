@@ -235,9 +235,7 @@ Build Again
 
 ## 🧠 Developer Wisdom
 
-<div align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
-</div>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
 
 ## 🌐 Connect
 
