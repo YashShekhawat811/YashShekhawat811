@@ -233,6 +233,14 @@ Build Again
 
 <br/>
 
+## 🧠 Developer Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
+
+</div>
+
 ## 🌐 Connect
 
 <div align="center">
