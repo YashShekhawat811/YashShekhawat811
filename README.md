@@ -4,6 +4,7 @@
 ### AI & Data Science • Data Engineering • Python • SQL
 
 <a href="https://linkedin.com/in/yash-shekhawat-tech"><img src="https://img.shields.io/badge/LinkedIn-2D5F7A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://yash-shekhawat-tech.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2F7A70?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:yash.shekhawat811@gmail.com"><img src="https://img.shields.io/badge/Email-735C5C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/YashShekhawat811"><img src="https://img.shields.io/badge/GitHub-37474F?style=for-the-badge&logo=github&logoColor=white"/></a>
 
