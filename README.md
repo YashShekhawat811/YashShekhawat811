@@ -1,7 +1,7 @@
-<div align="center">
+ <div align="center">
 
 # YASH SHEKHAWAT
-### AI & Data Science • Data Engineering • Python • SQL
+### AI & Data Science • Data Engineering • Python • QA Automation
 
 <a href="https://linkedin.com/in/yash-shekhawat-tech"><img src="https://img.shields.io/badge/LinkedIn-2D5F7A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://yash-shekhawat-tech.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2F7A70?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2400&pause=900&color=6B9AAE&center=true&vCenter=true&width=760&lines=%24+whoami;Yash+Shekhawat+%E2%80%94+AI+%26+Data+Science;data_engineering+%7C+data_science+%7C+ai_engineering;%24+python+build.py+--focus+data+%26+ai;%3E%3E+learn+%E2%86%92+build+%E2%86%92+analyze+%E2%86%92+improve" alt="terminal"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2400&pause=900&color=6B9AAE&center=true&vCenter=true&width=760&lines=%24+whoami;Yash+Shekhawat+%E2%80%94+AI+%26+Data+Science;python+%7C+data+engineering+%7C+qa+automation;%24+python+build.py+--focus+data+%26+automation;%3E%3E+learn+%E2%86%92+build+%E2%86%92+test+%E2%86%92+improve" alt="terminal"/>
 
 </div>
 
@@ -18,35 +18,48 @@
 
 ## ⚡ About
 
-I am a **B.Tech student in Artificial Intelligence & Data Science** building practical projects across **Data Engineering, Data Science, and AI Engineering**.
+I am a **B.Tech graduate in Artificial Intelligence & Data Science** building practical projects across **Python Development, Data Engineering, Data Science, AI Engineering, and QA Automation**.
 
-My strongest common foundation is **Python + SQL**. I use them to work with data, build analytical systems, explore patterns, experiment with machine learning, and turn what I learn into practical applications.
+My strongest common foundation is **Python + SQL**. I use them to work with data, build analytical systems, develop applications, explore machine learning, and solve practical engineering problems.
+
+I am also exploring **JavaScript, Playwright, and API Testing** to develop skills in software test automation and application quality assurance.
 
 ```yaml
 focus:
+  - Python Development
   - Data Engineering
   - Data Science
   - AI Engineering
-core: [Python, SQL, Data Analysis, Databases]
+  - QA Automation
+
+core: [Python, SQL, JavaScript, Data Analysis, Databases]
+
 engineering: [ETL, Data Warehousing, Data Modeling, APIs]
-ai_ml: [Machine Learning, NLP, AI Applications]
+
+ai_ml: [Machine Learning, NLP, Generative AI]
+
+testing: [Manual Testing, Automation Testing, API Testing, Playwright]
+
 learning_style: project_based
 status: building_and_learning
 ```
 
-I also have hands-on exposure to **Flask, REST APIs, and Streamlit** where a project needs an application layer. They support my data and AI work rather than define my career direction.
+I also have hands-on exposure to **Flask, REST APIs, and Streamlit** where a project needs an application layer. They support my data, AI, and software development work.
 
 <br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,linux,git,github,jupyter,docker,aws&theme=dark&perline=10" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgres,mongodb,linux,git,github,jupyter,docker,aws&theme=dark&perline=10" alt="Technology icons" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,pytorch,tensorflow&theme=dark&perline=8" alt="Development and AI icons" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,pytorch,tensorflow,playwright&theme=dark&perline=8" alt="Development, AI and automation icons" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=plastic&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4B6B88?style=plastic"/>
+<img src="https://img.shields.io/badge/Playwright-2E8B57?style=plastic&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-4F5B93?style=plastic&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-365C78?style=plastic&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-526D82?style=plastic&logo=matplotlib&logoColor=white"/>
@@ -56,7 +69,7 @@ I also have hands-on exposure to **Flask, REST APIs, and Streamlit** where a pro
 </div>
 
 ### 🧩 Core Skills
-`Python` `SQL` `OOP` `Decorators` `Generators` `asyncio` `Threading` `Multiprocessing` `File Handling`
+`Python` `JavaScript` `SQL` `OOP` `Decorators` `Generators` `asyncio` `Threading` `Multiprocessing` `File Handling`
 
 ### 🗄️ Data Engineering
 `SQL Server` `MySQL` `PostgreSQL` `MongoDB` `ETL` `Data Warehousing` `Data Modeling` `Data Quality` `Analytical Queries`
@@ -66,6 +79,9 @@ I also have hands-on exposure to **Flask, REST APIs, and Streamlit** where a pro
 
 ### 🤖 AI / ML
 `Scikit-learn` `TensorFlow` `PyTorch` `NLP` `Generative AI` `AI Applications`
+
+### 🧪 Software Testing & Automation
+`Manual Testing` `Functional Testing` `Regression Testing` `Automation Testing` `Playwright` `JavaScript` `Test Case Design` `API Testing` `Postman`
 
 ### 🔧 Development & Tools
 `Flask` `REST APIs` `Streamlit` `Git` `GitHub` `Linux` `Jupyter` `Docker` `AWS` `Postman`
@@ -185,22 +201,22 @@ Practical, project-oriented experience focused on applying programming concepts 
 
 <br/>
 
-## 🎯 Working Across Three Connected Areas
+## 🎯 Working Across Connected Areas
 
 <div align="center">
 
-| Data Engineering | Data Science | AI Engineering |
-|:---:|:---:|:---:|
-| SQL | Python | Python |
-| ETL | Pandas / NumPy | Machine Learning |
-| Data Warehousing | EDA | NLP |
-| Data Modeling | Statistics | AI Applications |
-| Data Quality | Visualization | Model Integration |
-| Analytics | ML | Practical AI Systems |
+| Data Engineering | Data Science | AI Engineering | QA Automation |
+|:---:|:---:|:---:|:---:|
+| SQL | Python | Python | JavaScript |
+| ETL | Pandas / NumPy | Machine Learning | Playwright |
+| Data Warehousing | EDA | NLP | Functional Testing |
+| Data Modeling | Statistics | AI Applications | Regression Testing |
+| Data Quality | Visualization | Model Integration | API Testing |
+| Analytics | ML | Practical AI Systems | Test Automation |
 
 </div>
 
-**The goal:** build strong data foundations first, develop analytical and ML depth, and then use those foundations to engineer practical AI systems.
+**The goal:** build strong programming and data foundations, develop analytical and AI/ML depth, and apply software engineering and automation practices to create reliable applications and systems.
 
 <br/>
 
@@ -248,6 +264,6 @@ Build Again
 
 <br/><br/>
 
-### Building with Data • Learning with AI • Engineering with Python
+### Building with Data • Learning with AI • Testing with Automation
 
 </div>
